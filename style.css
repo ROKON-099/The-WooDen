@@ -4,3 +4,35 @@
     box-sizing:border-box;
 
 }
+.navbar-brand{
+    font-size:1.5rem;
+    color:black;
+    font-weight:bold;
+
+}
+.container
+{
+    margin:auto;
+    padding:10px;
+
+}
+.nav-item a
+{
+    color:black;
+    font-weight:semi-bold;
+    transition:0.3s ease;
+
+}
+.nav-item a:hover {
+
+
+
+    color:blue;
+
+
+
+}
+.navbar
+{
+    background-image: url("images/nav-bg.png")
+}
